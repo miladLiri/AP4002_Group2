@@ -1,6 +1,6 @@
 {
-    "_restaurantName": "testName",
-    "_manager": "testManager",
+    "_restaurantName": "NewName",
+    "_managerName": "testManager",
     "_managerEmail": "test@test.com",
     "_type": "testType",
     "_description": "testDescription",
